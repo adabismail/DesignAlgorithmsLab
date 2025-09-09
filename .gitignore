@@ -1,0 +1,11 @@
+# Ignore compiled binaries and common C build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+
+# Editor / IDE
+.vscode/
+*.log
+*.tmp
